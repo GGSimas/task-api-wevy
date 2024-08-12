@@ -17,6 +17,6 @@ Api simples onde é permitida a criação de um usuário e adicionar tasks para 
 ## executar o projeto
 clonar este repositorio
 \
-na pasta da api executar o comando **npm install** ou **npm install**
+na pasta da api executar o comando **npm install** ou **npm i**
 \
 utilizar o comando **npm run dev** para subir o servidor localmente
